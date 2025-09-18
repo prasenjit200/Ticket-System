@@ -1,0 +1,428 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Documents\\Customer Support Ticketing System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|c:\\documents\\customer support ticketing system\\customer support ticketing system\\services\\implementation\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|solutionrelative:customer support ticketing system\\services\\implementation\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|c:\\documents\\customer support ticketing system\\customer support ticketing system\\services\\interface\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|solutionrelative:customer support ticketing system\\services\\interface\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|c:\\documents\\customer support ticketing system\\customer support ticketing system\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|solutionrelative:customer support ticketing system\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|c:\\documents\\customer support ticketing system\\customer support ticketing system\\services\\implementation\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|solutionrelative:customer support ticketing system\\services\\implementation\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|c:\\documents\\customer support ticketing system\\customer support ticketing system\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|solutionrelative:customer support ticketing system\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|c:\\documents\\customer support ticketing system\\customer support ticketing system\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|solutionrelative:customer support ticketing system\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|c:\\documents\\customer support ticketing system\\customer support ticketing system\\services\\interface\\iticketservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|solutionrelative:customer support ticketing system\\services\\interface\\iticketservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|c:\\documents\\customer support ticketing system\\customer support ticketing system\\models\\ticketmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|solutionrelative:customer support ticketing system\\models\\ticketmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|c:\\documents\\customer support ticketing system\\customer support ticketing system\\services\\implementation\\commentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|solutionrelative:customer support ticketing system\\services\\implementation\\commentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|c:\\documents\\customer support ticketing system\\customer support ticketing system\\models\\commentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|solutionrelative:customer support ticketing system\\models\\commentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|c:\\documents\\customer support ticketing system\\customer support ticketing system\\models\\ticketstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|solutionrelative:customer support ticketing system\\models\\ticketstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|c:\\documents\\customer support ticketing system\\customer support ticketing system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|solutionrelative:customer support ticketing system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|c:\\documents\\customer support ticketing system\\customer support ticketing system\\models\\updateticketmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|solutionrelative:customer support ticketing system\\models\\updateticketmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|c:\\documents\\customer support ticketing system\\customer support ticketing system\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|solutionrelative:customer support ticketing system\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|c:\\documents\\customer support ticketing system\\customer support ticketing system\\config\\mongoconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|solutionrelative:customer support ticketing system\\config\\mongoconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|c:\\documents\\customer support ticketing system\\customer support ticketing system\\dtos\\ticketstatusupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|solutionrelative:customer support ticketing system\\dtos\\ticketstatusupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|c:\\documents\\customer support ticketing system\\customer support ticketing system\\models\\prioritylevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|solutionrelative:customer support ticketing system\\models\\prioritylevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|c:\\documents\\customer support ticketing system\\customer support ticketing system\\dtos\\updatestatusrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|solutionrelative:customer support ticketing system\\dtos\\updatestatusrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|c:\\documents\\customer support ticketing system\\customer support ticketing system\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|solutionrelative:customer support ticketing system\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|c:\\documents\\customer support ticketing system\\customer support ticketing system\\services\\interface\\icommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|solutionrelative:customer support ticketing system\\services\\interface\\icommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|c:\\documents\\customer support ticketing system\\customer support ticketing system\\services\\implementation\\jwtservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|solutionrelative:customer support ticketing system\\services\\implementation\\jwtservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|c:\\documents\\customer support ticketing system\\customer support ticketing system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|solutionrelative:customer support ticketing system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|c:\\documents\\customer support ticketing system\\customer support ticketing system\\services\\interface\\ijwtservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|solutionrelative:customer support ticketing system\\services\\interface\\ijwtservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|c:\\documents\\customer support ticketing system\\customer support ticketing system\\dtos\\signindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|solutionrelative:customer support ticketing system\\dtos\\signindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|c:\\documents\\customer support ticketing system\\customer support ticketing system\\config\\jwtconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A285EF1-9681-4CA8-8DB5-6EF334EB5F37}|Customer Support Ticketing System\\Customer Support Ticketing System.csproj|solutionrelative:customer support ticketing system\\config\\jwtconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TicketModel.cs",
+              "DocumentMoniker": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\Models\\TicketModel.cs",
+              "RelativeDocumentMoniker": "Customer Support Ticketing System\\Models\\TicketModel.cs",
+              "ToolTip": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\Models\\TicketModel.cs",
+              "RelativeToolTip": "Customer Support Ticketing System\\Models\\TicketModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T06:55:34.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITicketServices.cs",
+              "DocumentMoniker": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\Services\\Interface\\ITicketServices.cs",
+              "RelativeDocumentMoniker": "Customer Support Ticketing System\\Services\\Interface\\ITicketServices.cs",
+              "ToolTip": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\Services\\Interface\\ITicketServices.cs",
+              "RelativeToolTip": "Customer Support Ticketing System\\Services\\Interface\\ITicketServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T07:32:51.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TicketService.cs",
+              "DocumentMoniker": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\Services\\Implementation\\TicketService.cs",
+              "RelativeDocumentMoniker": "Customer Support Ticketing System\\Services\\Implementation\\TicketService.cs",
+              "ToolTip": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\Services\\Implementation\\TicketService.cs",
+              "RelativeToolTip": "Customer Support Ticketing System\\Services\\Implementation\\TicketService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAgwCoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T07:40:41.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "Customer Support Ticketing System\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\Models\\UserModel.cs",
+              "RelativeToolTip": "Customer Support Ticketing System\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T06:48:01.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\Services\\Implementation\\UserServices.cs",
+              "RelativeDocumentMoniker": "Customer Support Ticketing System\\Services\\Implementation\\UserServices.cs",
+              "ToolTip": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\Services\\Implementation\\UserServices.cs",
+              "RelativeToolTip": "Customer Support Ticketing System\\Services\\Implementation\\UserServices.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T07:10:20.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserServices.cs",
+              "DocumentMoniker": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\Services\\Interface\\IUserServices.cs",
+              "RelativeDocumentMoniker": "Customer Support Ticketing System\\Services\\Interface\\IUserServices.cs",
+              "ToolTip": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\Services\\Interface\\IUserServices.cs",
+              "RelativeToolTip": "Customer Support Ticketing System\\Services\\Interface\\IUserServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T07:08:43.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Customer Support Ticketing System\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Customer Support Ticketing System\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA1wC4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T13:01:25.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\Program.cs",
+              "RelativeDocumentMoniker": "Customer Support Ticketing System\\Program.cs",
+              "ToolTip": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\Program.cs",
+              "RelativeToolTip": "Customer Support Ticketing System\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T10:15:25.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TicketController.cs",
+              "DocumentMoniker": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\Controllers\\TicketController.cs",
+              "RelativeDocumentMoniker": "Customer Support Ticketing System\\Controllers\\TicketController.cs",
+              "ToolTip": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\Controllers\\TicketController.cs",
+              "RelativeToolTip": "Customer Support Ticketing System\\Controllers\\TicketController.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAwwMoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T08:05:54.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TicketStatusUpdateDto.cs",
+              "DocumentMoniker": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\Dtos\\TicketStatusUpdateDto.cs",
+              "RelativeDocumentMoniker": "Customer Support Ticketing System\\Dtos\\TicketStatusUpdateDto.cs",
+              "ToolTip": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\Dtos\\TicketStatusUpdateDto.cs",
+              "RelativeToolTip": "Customer Support Ticketing System\\Dtos\\TicketStatusUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T12:32:23.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TicketStatus.cs",
+              "DocumentMoniker": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\Models\\TicketStatus.cs",
+              "RelativeDocumentMoniker": "Customer Support Ticketing System\\Models\\TicketStatus.cs",
+              "ToolTip": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\Models\\TicketStatus.cs",
+              "RelativeToolTip": "Customer Support Ticketing System\\Models\\TicketStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T13:08:35.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CommentModel.cs",
+              "DocumentMoniker": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\Models\\CommentModel.cs",
+              "RelativeDocumentMoniker": "Customer Support Ticketing System\\Models\\CommentModel.cs",
+              "ToolTip": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\Models\\CommentModel.cs",
+              "RelativeToolTip": "Customer Support Ticketing System\\Models\\CommentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T09:20:33.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CommentServices.cs",
+              "DocumentMoniker": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\Services\\Implementation\\CommentServices.cs",
+              "RelativeDocumentMoniker": "Customer Support Ticketing System\\Services\\Implementation\\CommentServices.cs",
+              "ToolTip": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\Services\\Implementation\\CommentServices.cs",
+              "RelativeToolTip": "Customer Support Ticketing System\\Services\\Implementation\\CommentServices.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwB4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T09:26:00.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MongoConfig.cs",
+              "DocumentMoniker": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\Config\\MongoConfig.cs",
+              "RelativeDocumentMoniker": "Customer Support Ticketing System\\Config\\MongoConfig.cs",
+              "ToolTip": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\Config\\MongoConfig.cs",
+              "RelativeToolTip": "Customer Support Ticketing System\\Config\\MongoConfig.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T07:02:51.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateTicketModel.cs",
+              "DocumentMoniker": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\Models\\UpdateTicketModel.cs",
+              "RelativeDocumentMoniker": "Customer Support Ticketing System\\Models\\UpdateTicketModel.cs",
+              "ToolTip": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\Models\\UpdateTicketModel.cs",
+              "RelativeToolTip": "Customer Support Ticketing System\\Models\\UpdateTicketModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T07:22:29.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "Customer Support Ticketing System\\Controllers\\MessageController.cs",
+              "ToolTip": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "Customer Support Ticketing System\\Controllers\\MessageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T09:48:26.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Customer Support Ticketing System\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Customer Support Ticketing System\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T08:05:31.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PriorityLevel.cs",
+              "DocumentMoniker": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\Models\\PriorityLevel.cs",
+              "RelativeDocumentMoniker": "Customer Support Ticketing System\\Models\\PriorityLevel.cs",
+              "ToolTip": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\Models\\PriorityLevel.cs",
+              "RelativeToolTip": "Customer Support Ticketing System\\Models\\PriorityLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T07:00:39.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UpdateStatusRequest.cs",
+              "DocumentMoniker": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\Dtos\\UpdateStatusRequest.cs",
+              "RelativeDocumentMoniker": "Customer Support Ticketing System\\Dtos\\UpdateStatusRequest.cs",
+              "ToolTip": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\Dtos\\UpdateStatusRequest.cs",
+              "RelativeToolTip": "Customer Support Ticketing System\\Dtos\\UpdateStatusRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T09:15:24.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICommentService.cs",
+              "DocumentMoniker": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\Services\\Interface\\ICommentService.cs",
+              "RelativeDocumentMoniker": "Customer Support Ticketing System\\Services\\Interface\\ICommentService.cs",
+              "ToolTip": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\Services\\Interface\\ICommentService.cs",
+              "RelativeToolTip": "Customer Support Ticketing System\\Services\\Interface\\ICommentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T09:24:04.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "JwtServices.cs",
+              "DocumentMoniker": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\Services\\Implementation\\JwtServices.cs",
+              "RelativeDocumentMoniker": "Customer Support Ticketing System\\Services\\Implementation\\JwtServices.cs",
+              "ToolTip": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\Services\\Implementation\\JwtServices.cs",
+              "RelativeToolTip": "Customer Support Ticketing System\\Services\\Implementation\\JwtServices.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwB0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T09:30:30.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\appsettings.json",
+              "RelativeDocumentMoniker": "Customer Support Ticketing System\\appsettings.json",
+              "ToolTip": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\appsettings.json",
+              "RelativeToolTip": "Customer Support Ticketing System\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-08T06:42:46.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IjwtServices.cs",
+              "DocumentMoniker": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\Services\\Interface\\IjwtServices.cs",
+              "RelativeDocumentMoniker": "Customer Support Ticketing System\\Services\\Interface\\IjwtServices.cs",
+              "ToolTip": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\Services\\Interface\\IjwtServices.cs",
+              "RelativeToolTip": "Customer Support Ticketing System\\Services\\Interface\\IjwtServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T09:29:04.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SigninDto.cs",
+              "DocumentMoniker": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\Dtos\\SigninDto.cs",
+              "RelativeDocumentMoniker": "Customer Support Ticketing System\\Dtos\\SigninDto.cs",
+              "ToolTip": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\Dtos\\SigninDto.cs",
+              "RelativeToolTip": "Customer Support Ticketing System\\Dtos\\SigninDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T09:59:19.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "JwtConfig.cs",
+              "DocumentMoniker": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\Config\\JwtConfig.cs",
+              "RelativeDocumentMoniker": "Customer Support Ticketing System\\Config\\JwtConfig.cs",
+              "ToolTip": "C:\\Documents\\Customer Support Ticketing System\\Customer Support Ticketing System\\Config\\JwtConfig.cs",
+              "RelativeToolTip": "Customer Support Ticketing System\\Config\\JwtConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T09:18:14.747Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

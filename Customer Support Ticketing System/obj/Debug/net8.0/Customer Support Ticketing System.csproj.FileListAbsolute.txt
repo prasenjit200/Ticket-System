@@ -1,0 +1,51 @@
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\obj\Debug\net8.0\Customer Support Ticketing System.csproj.AssemblyReference.cache
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\obj\Debug\net8.0\Customer Support Ticketing System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\obj\Debug\net8.0\Customer Support Ticketing System.AssemblyInfoInputs.cache
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\obj\Debug\net8.0\Customer Support Ticketing System.AssemblyInfo.cs
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\obj\Debug\net8.0\Customer Support Ticketing System.csproj.CoreCompileInputs.cache
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\obj\Debug\net8.0\Customer Support Ticketing System.MvcApplicationPartsAssemblyInfo.cs
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\obj\Debug\net8.0\Customer Support Ticketing System.MvcApplicationPartsAssemblyInfo.cache
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\bin\Debug\net8.0\appsettings.Development.json
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\bin\Debug\net8.0\appsettings.json
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\bin\Debug\net8.0\Customer Support Ticketing System.staticwebassets.endpoints.json
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\bin\Debug\net8.0\Customer Support Ticketing System.exe
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\bin\Debug\net8.0\Customer Support Ticketing System.deps.json
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\bin\Debug\net8.0\Customer Support Ticketing System.runtimeconfig.json
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\bin\Debug\net8.0\Customer Support Ticketing System.dll
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\bin\Debug\net8.0\Customer Support Ticketing System.pdb
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\bin\Debug\net8.0\DnsClient.dll
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\bin\Debug\net8.0\Hellang.Authentication.JwtBearer.Google.dll
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\bin\Debug\net8.0\SharpCompress.dll
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\bin\Debug\net8.0\Snappier.dll
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\bin\Debug\net8.0\ZstdSharp.dll
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\obj\Debug\net8.0\scopedcss\bundle\Customer Support Ticketing System.styles.css
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\obj\Debug\net8.0\staticwebassets.build.json
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\obj\Debug\net8.0\staticwebassets.development.json
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\obj\Debug\net8.0\Customer.ECD10BE9.Up2Date
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\obj\Debug\net8.0\Customer Support Ticketing System.dll
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\obj\Debug\net8.0\refint\Customer Support Ticketing System.dll
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\obj\Debug\net8.0\Customer Support Ticketing System.pdb
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\obj\Debug\net8.0\Customer Support Ticketing System.genruntimeconfig.cache
+C:\Documents\Customer Support Ticketing System\Customer Support Ticketing System\obj\Debug\net8.0\ref\Customer Support Ticketing System.dll
